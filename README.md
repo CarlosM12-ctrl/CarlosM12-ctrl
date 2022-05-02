@@ -1,5 +1,9 @@
 Carlos Eduardo Hernández Montes
-Técnico informático
+Ing. Sistemas Computacionales
+Lenguajes
+Python
+Javascript
+MySQL
 
 <!---
 CarlosM12-ctrl/CarlosM12-ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
